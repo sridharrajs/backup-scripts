@@ -9,7 +9,7 @@ Script for uploading backups to s3
 
 ## Running
 
-   python3 upload.py
+    python3 upload.py
 
 ## Result
 
